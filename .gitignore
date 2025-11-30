@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Experiment outputs
+*.sqlite3
+*.pkl
+*.out
+logs/
+data/
+split_data/
+sklearn_model_cache_/
+
+# Redis
+redis_connection.txt
+dump.rdb

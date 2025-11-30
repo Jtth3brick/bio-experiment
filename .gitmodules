@@ -1,0 +1,3 @@
+[submodule "bio-sklearn-trainer"]
+	path = bio-sklearn-trainer
+	url = git@github.com:Jtth3brick/bio-sklearn-trainer.git
